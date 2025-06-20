@@ -21,8 +21,8 @@ It checks key system settings such as UAC, Firewall, BitLocker, Defender, and mo
 
 ### 1. **Clone this repository**
 ```bash
-git clone https://github.com/yourname/win-security-scanner.git
-cd win-security-scanner
+git clone https://github.com/yourname/Windows-Security-Scanner.git
+cd Windows-Security-Scanner
 go build -o scanner.exe
 ./scanner.exe
 ```
